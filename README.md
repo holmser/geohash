@@ -30,5 +30,11 @@ Sample data:
 ```
 4085315	Ragland Cemetery	Ragland Cemetery		34.67398	-86.82695	S	CMTY	US		AL	083			0	180	178	America/Chicago	2006
 ```
+
+### Real life query patterns
+
+- Get places near me with activities on specific date/range
+- Get places near me with activities 
+
 # Links
 - [Best GeoHashing explanation I've found](https://gis.stackexchange.com/questions/18330/using-geohash-for-proximity-searches)
